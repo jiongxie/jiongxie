@@ -30,11 +30,8 @@ Email - byeonhs0018@naver.com<br/>
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
  <a href="https://firezu.tistory.com/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=./tistory.svg style="margin-bottom: 5px;" />
 </a>
-<!--<a href="https://www.linkedin.com/in/awesomeyelim/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>-->
 </div>  
 <br/> 
 
